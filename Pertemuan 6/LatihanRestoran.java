@@ -51,3 +51,5 @@ public static void main(String[] args) {
         System.out.println("Total Bayar: Rp " + totalHarga);
     }
 }
+// Nama : Feni Dwi Putri
+// NIM  : D1041241041
