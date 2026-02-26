@@ -25,3 +25,5 @@ public class LatihanValidasi {
         } while (nilai < 0 || nilai > 100); // Loop terus berjalan jika nilai tidak valid
     }
 }
+// Nama : Feni Dwi Putri
+// NIM  : D1041241041
