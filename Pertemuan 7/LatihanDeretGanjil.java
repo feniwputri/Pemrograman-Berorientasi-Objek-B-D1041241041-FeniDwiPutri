@@ -18,3 +18,5 @@ public class LatihanDeretGanjil {
         System.out.println();
     }
 }
+// Nama : Feni Dwi Putri
+// NIM  : D1041241041
