@@ -40,3 +40,5 @@ public class LatihanBukuConstructor {
         buku3.tampilkanInfo();
     }
 }
+// Nama : Feni Dwi Putri
+// NIM  : D1041241041
