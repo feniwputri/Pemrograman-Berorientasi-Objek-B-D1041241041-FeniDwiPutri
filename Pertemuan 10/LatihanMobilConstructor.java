@@ -4,21 +4,21 @@ class MobilLatihan {
     String warna;
     int tahun;
 
-    // Constructor 1: Tanpa parameter (Default)
+    // Constructor 1: Tanpa parameter 
     public MobilLatihan() {
         this.merk = "Belum diisi";
         this.warna = "Belum diisi";
         this.tahun = 0;
     }
 
-    // Constructor 2: 1 parameter (merk saja)
+    // Constructor 2: 1 parameter 
     public MobilLatihan(String merk) {
         this.merk = merk;
         this.warna = "Belum diisi";
         this.tahun = 0;
     }
 
-    // Constructor 3: 3 parameter (semua atribut)
+    // Constructor 3: 3 parameter 
     public MobilLatihan(String merk, String warna, int tahun) {
         this.merk = merk;
         this.warna = warna;
